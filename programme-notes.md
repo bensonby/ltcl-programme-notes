@@ -35,3 +35,19 @@ The sonata is in three movements. The first movement is in sonata form as a typi
 The slow second movement is in the subdominant key (F major). It is in ternary form, with a lyrical opening melody. The first section changes to the dominant key (C major) and ends through a series of descending major scales. The B section starts in C minor and ends with a downward arpeggio of the dominant seventh of the tonic key. As the A section reappear, it remains at the tonic key in the middle through a short bridge in the minor key.
 
 The third movement is in the tonic key in triple meter and has a hint of humor. The melody is often interrupted by a fermata in the intermediate phrases.
+
+Fazil Say (1970-)
+Paganini Jazz Op. 5e
+(show movement list)
+8m
+
+Fazil Say is a Turkish pianist and composer. The Caprice No. 24 in A minor written by Niccolo Paganini is a very famous work for solo violin. And Say has transformed it into a theme and variation piece in jazz virtuoso style, originally used as an encore work in 1988. The variations are edited and expanded between 1988 and 1995.
+
+There are six variations (not counting the three extra variations) written in different jazz styles. The theme uses powerful octaves and with syncopations towards the end of the first two sub-phrases, it ends with a more jazzy extended chords to lead to the first variation.
+
+The first variation is fast and light. It has the theme with syncopation added and staccato eighths as the accompaniment. Elements of the blue scale can be found towards the end.
+The second variation is like a dialogue between the melody and the bass notes. In the second half it pushs to the ending with a series of short octaves phrases with power chord in the bass in between.
+The third variation is labelled rumba. The melody is transformed as syncopated where the bass takes the beat in octaves. The second half features descneding octave scales and ostinato accompaniment figures. It softens and slows down towards the end, leading to the next variation.
+While the first three variation is are fast, the fourth variation is a slow one with broken chord arpeggios. It becomes more agitated in the middle, and then gradually relaxes afterwards.
+The fifth variation is in the new age style. It is the only variation that is in major key, which is in a soothing mood with syncopated broken chord accompaniment. There is a key change back to the original minor key near the end of this variation.
+The last variation is a fast swing variation. It starts with four bars of introduction with powerful bass and syncopated chords on the top. The theme develops through the next two 4-bar sections, followed by triplets and tremolos leading to the descending blue scales, and a series of repeated tonic chords concludes the pieces brilliantly.
