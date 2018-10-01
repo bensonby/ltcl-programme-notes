@@ -21,3 +21,17 @@ The nocturne follows the ABCA? form. The piece starts with an emotional mood. Wi
 The second theme is in the enharmonic equivalent minor (C# minor), still in triple meter but on eight notes instead of triplets. It also features the use syncopation in the accompaniments. It builds up to the re-occurence of the end of the first theme, and then the third theme follows. The third theme starts with a short introduction and then changes to is in quadruple meter with a contemplative dream-like melody, accompanied by broken chords.
 
 The second theme follows and it builds up more intensely to a reappearance of the third theme, and further to the climax through ascending scales from the bass, combination of semiquavers and triplets. The ascending diminishing scales mark the end of the climax. The first theme returns after a long pause. The nocturne ends in transquil after a final octave phrase build-up.
+
+Joseph Haydn (?-?)
+Piano Sonata in C, No. 60 Hob.XVI/50
+(show movement list)
+16min
+
+The Piano Sonata in C, No. 60, along with the Sonata No. 62 in E flat major, is dedicated to Therese Jansen Bartolozzi who is a virtuoso English pianist. With Therese as the recipient of the sonata, Haydn writes this piece which requires more advanced techniques, and also explores the new pedals in the pianoforte as the piano building technology had advanced. This piece is considered as one of the greatest sonatas written by Haydn.
+
+The sonata is in three movements. The first movement is in sonata form as a typical composition form in the classical period. The exposition starts with a "curious" theme beginning with the tonic going down the tonic triad, with a tonic counterpoint throughout. The second theme is in the dominant key and consists of scales and counter-melodies. The development section starts in the dominant minor with scales on the top and the theme in minor in the bass. There is a "open pedal" section which is where Haydn experiments with the new pedals in the pianoforte.
+(to continue)
+
+The slow second movement is in the subdominant key (F major). It is in ternary form, with a lyrical opening melody. The first section changes to the dominant key (C major) and ends through a series of descending major scales. The B section starts in C minor and ends with a downward arpeggio of the dominant seventh of the tonic key. As the A section reappear, it remains at the tonic key in the middle through a short bridge in the minor key.
+
+The third movement is in the tonic key in triple meter and has a hint of humor. The melody is often interrupted by a fermata in the intermediate phrases.
