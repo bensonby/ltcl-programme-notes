@@ -1,5 +1,14 @@
 ﻿# Dohnanyi
 
+35: left hand F# chromatic
+85: warm octave theme
+119: octave theme 2nd time
+152: left hand C# chromatic
+187:  development (right hand <fis cis>
+212: recap alt form
+224: pp with b d 8 q r <c e>
+
+
 ## hyperion
 
 https://www.hyperion-records.co.uk/dw.asp?dc=W13877_67871
